@@ -1,0 +1,7 @@
+{
+  "name": "petmarket",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
